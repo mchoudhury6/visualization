@@ -10,7 +10,16 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+        Here is a good example from Tableau Public Gallery titled "Global CO2 Emissions by Country" https://public.tableau.com/app/profile/sukesh.kumar03/viz/GlobalCO2Emissions_17402872932270/GlobalCo2Emissions
+            - The chart uses a clean and clear bar graph with contrasting colours
+            - The x-axis shows the years, and the y-axis shows the emissions in a clear, linear scale allowing us to view the changes quickly over time
+            - Good use of colours to differentiate countries and regions
+
+        Here is a bad example from Datavizproject which is a pie chart showing browser market share
+            - Overuse of elements (colors, text, etc.) detracts from the clarity
+            - Misuse of pie charts or other formats that don't best represent the data
+            - A lack of precise labels, legends, or scales makes it difficult to understand the data
+
 
 
 
@@ -21,7 +30,10 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+        - Switch to a bar chart because pie charts are not ideal for comparing values
+        - Limit the number of categories because pie charts become too cluttered
+        - Use clear and meaningful colour to distiguish 
+        - Use clear titles and labels to clarify what the data represents
 
 
 
